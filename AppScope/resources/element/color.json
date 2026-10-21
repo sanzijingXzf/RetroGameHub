@@ -1,0 +1,12 @@
+{
+  "color": [
+    {"name": "app_background", "value": "#1a1a2e"},
+    {"name": "card_background", "value": "#16213e"},
+    {"name": "primary_accent", "value": "#e94560"},
+    {"name": "secondary_accent", "value": "#0f3460"},
+    {"name": "text_primary", "value": "#ffffff"},
+    {"name": "text_secondary", "value": "#a0a0b0"},
+    {"name": "success_color", "value": "#4ecca3"},
+    {"name": "warning_color", "value": "#fcbf49"}
+  ]
+}
